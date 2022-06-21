@@ -727,4 +727,18 @@
 			"feat": "Play simply with your keyboard, or connect a drum controller!",
 			"invert": true
 		}
-}]
+        },
+	{
+		"name": "百度一下，你就知道",
+		"icon": "https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png",
+		"type": "search",
+		"data": {
+			"type": "IFrame",
+			"url": "https://www.baidu.com",
+			"gallery": [
+				"https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png",
+			],
+			"desc": "百度是全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
+			"feat": "你可以在搜索框内输入你想搜索的内容，然后点击“百度一下”按钮就可以搜索了！"
+		}
+	}]
